@@ -1,0 +1,10 @@
+C:\Users\Razgr\source\repos\MatchinGame\bin\Release\MatchinGame.exe.config
+C:\Users\Razgr\source\repos\MatchinGame\bin\Release\MatchinGame.exe
+C:\Users\Razgr\source\repos\MatchinGame\bin\Release\MatchinGame.pdb
+C:\Users\Razgr\source\repos\MatchinGame\obj\Release\MatchinGame.csproj.AssemblyReference.cache
+C:\Users\Razgr\source\repos\MatchinGame\obj\Release\MatchinGame.MatchingGame.resources
+C:\Users\Razgr\source\repos\MatchinGame\obj\Release\MatchinGame.Properties.Resources.resources
+C:\Users\Razgr\source\repos\MatchinGame\obj\Release\MatchinGame.csproj.GenerateResource.cache
+C:\Users\Razgr\source\repos\MatchinGame\obj\Release\MatchinGame.csproj.CoreCompileInputs.cache
+C:\Users\Razgr\source\repos\MatchinGame\obj\Release\MatchinGame.exe
+C:\Users\Razgr\source\repos\MatchinGame\obj\Release\MatchinGame.pdb
